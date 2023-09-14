@@ -47,3 +47,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us at [dejager.sa@gmail.com](mailto:dejager.sa@gmail.com).
+
+[![Run on Repl.it](https://replit.com/badge/github/canstralian/tafe-assignments)](https://replit.com/new/github/canstralian/tafe-assignments)
